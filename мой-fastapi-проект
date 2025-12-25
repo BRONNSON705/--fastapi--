@@ -1,0 +1,7 @@
+bash
+git init
+git add .
+git commit -m "Мой первый FastAPI проект"
+git branch -M main
+git remote add origin https://github.com/ВАШ-ЛОГИН/мой-fastapi-проект.git
+git push -u origin main
